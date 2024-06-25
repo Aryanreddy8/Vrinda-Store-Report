@@ -1,9 +1,9 @@
-# Vrinda Store Report
+# Vrinda Store's Report
 
 
 
 ### Project Description:
-     1.This Project uses Microsoft Excel to analyze the dataset of an online music store.
+     1.This Project uses Microsoft Excel to analyze the dataset of an Vrinda Store's.
      2.The goal of the project is to answer a set of Questions about the Store's business Performance
 ### Tool Used:
 Microsoft Excel
