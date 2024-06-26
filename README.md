@@ -5,7 +5,7 @@
 Vrinda Store wants to create an annual slaes report for 2023.so that, Vrinda can understand their customers and grow more sales in 2024
 
 ### Project Description:
-     1.This Project uses Microsoft Excel to analyze the dataset of an Vrinda Store's.
+     1.This Project uses Microsoft Excel to analyze the dataset of a Vrinda Store's.
      2.The goal of the project is to answer a set of Questions about the Store's business Performance
 ### Tool Used:
 Microsoft Excel
