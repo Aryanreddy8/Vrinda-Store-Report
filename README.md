@@ -22,7 +22,7 @@ Q5:List top 10 States contributing to sales?
 
 Q6:Relation between age and gender based on no.?
 
-Q7:Which Channel is contributing to macximum Sales?
+Q7:Which Channel is contributing to maximum Sales?
 
 
 
